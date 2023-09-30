@@ -1,0 +1,9 @@
+Package: com.henrikssonbrothers.vericompatible
+Name: VeriCompatible
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Prevent "Update Required" in Verisure app
+Maintainer: Christoffer Wigforss
+Author: Christoffer Wigforss
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
